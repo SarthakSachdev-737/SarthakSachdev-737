@@ -20,7 +20,7 @@ My journey in tech is driven by a genuine love for coding and a fascination with
 
 - **Frontend:** HTML, CSS, JavaScript, React, Next.js, Tailwind CSS, Bootstrap, Framer Motion, GSAP  
 - **Backend:** Node.js, Express.js, MongoDB  
-- **Languages:** Java  
+- **Languages:** Java , C
 - **Tools & Platforms:** GitHub, Postman, Vercel
 
 ---
